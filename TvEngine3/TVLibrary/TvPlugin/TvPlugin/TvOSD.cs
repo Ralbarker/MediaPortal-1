@@ -532,7 +532,7 @@ namespace TvPlugin
               }
             }
           }
-          break;
+          return true;
 
         case GUIMessage.MessageType.GUI_MSG_SETFOCUS:
           goto case GUIMessage.MessageType.GUI_MSG_LOSTFOCUS;
