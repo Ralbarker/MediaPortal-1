@@ -129,7 +129,7 @@
 		<colordiffuse>black</colordiffuse>
       </control>
       <control>
-	    <posX>1120</posX>
+	    <posX>1070</posX>
 		<posY>965</posY>
         <description>No FTA</description>
         <type>image</type>
